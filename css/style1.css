@@ -59,6 +59,20 @@ table {
     height: 49px;
 }
 
+.blc {
+    height: 1000px;
+}
+
+#content {
+    position: absolute;
+    top: 100px;
+    color: #555;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-shadow: 3px 5px 6px #ce2600;
+}
+
 #list ul {
     position: absolute;
     left: 50%;
