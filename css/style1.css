@@ -105,3 +105,18 @@ table {
     background-size: 100% 100%;
 }
 
+#box {
+    cursor: move;
+    margin: 2px;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: #5ebc9b;
+    border: 1px solid #00001f;
+    left: 100px;
+    top: 100px;
+    z-index: 1;
+}
+
+
+
